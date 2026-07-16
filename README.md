@@ -436,4 +436,4 @@ and only then becomes music.
 
 ---
 
-*"If molecules had 
+*"If molecules had memories, and quantum states had melodies, what would brewing a cup of coffee sound like?"*
