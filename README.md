@@ -136,9 +136,7 @@ Two of these directly influence the circuit.
 
 Orbital energies are first normalized,
 
-\[
-E_{norm}=\frac{E-E_{min}}{E_{max}-E_{min}}
-\]
+$E_{\mathrm{norm}}=\frac{E-E_{\min}}{E_{\max}-E_{\min}}$
 
 and then converted into an Ry rotation angle,
 
