@@ -1,7 +1,7 @@
 # ☕ Quantum Café
 🎧 Listen
 
-**Rendered audio:** [Morning Quantum Café](assets/quantum_cafe.wav)
+**Rendered audio:** download the mp3 file from latest release (quantum_cafe.mp3)
 
 **MIDI:** [QuantumCafe/assets/quantum_cafe.mid]
 
