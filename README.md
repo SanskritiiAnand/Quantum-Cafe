@@ -143,11 +143,9 @@ and then converted into an Ry rotation angle,
 \[
 \theta
 =
-\pi
-E_{norm}
+\pi E_{\mathrm{norm}}
 \left(\frac{T}{100}\right)
 \]
-
 Higher brewing temperatures therefore rotate every qubit further around the Bloch sphere.
 
 ---
