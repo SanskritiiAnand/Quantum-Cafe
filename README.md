@@ -3,9 +3,9 @@
 
 **Rendered audio:** [Morning Quantum Café](assets/quantum_cafe.wav)
 
-**MIDI:** QuantumCafe/assets/quantum_cafe.mid
+**MIDI:** [QuantumCafe/assets/quantum_cafe.mid]
 
-📄 Architecture: assets/pipeline.png
+📄 Architecture: [QuantumCafe/assets/pipeline.png]
 
 ☕ Molecule: Caffeine (C₈H₁₀N₄O₂)
 ### Brewing quantum chemistry into music.
