@@ -3,7 +3,7 @@
 
 **Rendered audio:** [Morning Quantum Café](assets/quantum_cafe.wav)
 
-**MIDI:** [quantum_cafe.mid](quantum_cafe.mid)
+**MIDI:** QuantumCafe/assets/quantum_cafe.mid
 
 📄 Architecture: assets/pipeline.png
 
