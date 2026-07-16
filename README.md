@@ -140,12 +140,8 @@ $E_{\mathrm{norm}}=\frac{E-E_{\min}}{E_{\max}-E_{\min}}$
 
 and then converted into an Ry rotation angle,
 
-\[
-\theta
-=
-\pi E_{\mathrm{norm}}
-\left(\frac{T}{100}\right)
-\]
+θ = π · E_norm · (T/100)
+
 Higher brewing temperatures therefore rotate every qubit further around the Bloch sphere.
 
 ---
@@ -156,14 +152,7 @@ Each orbital contains a geometry-derived phase factor.
 
 The bloom stage determines the phase rotation
 
-\[
-\phi
-=
-\text{phase factor}
-\times
-\frac{\text{bloom time}}
-{\text{total brew time}}
-\]
+φ = phase_factor × (bloom_time / total_brew_time)
 
 The bloom therefore changes how the quantum state evolves before entanglement.
 
@@ -209,21 +198,13 @@ This creates correlations between orbitals instead of treating each one independ
 
 ## 3. Transformation
 
-After simulation,
+After simulation, the statevector
 
-the statevector
-
-\[
-|\psi\rangle
-\]
+|ψ⟩
 
 is converted into measurable probabilities
 
-\[
-P_i
-=
-|\psi_i|^2
-\]
+Pᵢ = |ψᵢ|²
 
 These probabilities become the musical vocabulary of the composition.
 
@@ -233,9 +214,7 @@ These probabilities become the musical vocabulary of the composition.
 
 The project never maps one orbital directly to one note.
 
-Instead,
-
-the quantum probability distribution determines how the music evolves.
+Instead, the quantum probability distribution determines how the music evolves.
 
 | Quantum Feature | Musical Interpretation |
 |-----------------|-----------------------|
@@ -258,16 +237,7 @@ Each musical event is generated from the simulated probability distribution.
 
 ### Velocity
 
-\[
-v
-=
-40
-+
-35P
-+
-30B
-\]
-
+v = 40 + 35P + 30B
 where
 
 - \(P\) is the basis-state probability
@@ -279,17 +249,11 @@ Higher-probability quantum states produce stronger musical accents.
 
 ### Duration
 
-\[
-d
-=
-0.75q
-+
-1.10Pq
-\]
-
+d = 0.75q + 1.10Pq + j
 where
 
 - \(q\) is one quarter note.
+- \(j\) is the jitter.
 
 More probable quantum states sustain longer notes.
 
@@ -299,9 +263,7 @@ More probable quantum states sustain longer notes.
 
 The composition itself follows
 
-\[
-B=\sin(\pi x)
-\]
+B = sin(πx)
 
 where \(x\) is the progress through the piece.
 
